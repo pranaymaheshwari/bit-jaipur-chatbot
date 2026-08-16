@@ -11,8 +11,8 @@ Built with a **dual-LLM architecture** (local + cloud), **Qdrant vector database
 ### 🤖 Dual-LLM Support
 | Model | Provider | Speed | Cost | Requirement |
 |-------|----------|-------|------|-------------|
-| **Gemma 4 e2b** | Ollama (Local) | 10–15s | Free | Ollama installed locally |
-| **Llama 3.3-70b-versatile** | Groq (API) | 2–5s | Pay per API call | `GROQ_API_KEY` in `.env` |
+| **Gemma 4 e2b** | Ollama (Local) | Slow | Free | Ollama installed locally |
+| **Llama 3.3-70b-versatile** | Groq (API) | Fast | Pay per API call | `GROQ_API_KEY` in `.env` |
 
 - **Dynamic model switching** at runtime from the Streamlit sidebar
 - **Real-time token streaming** for both models
