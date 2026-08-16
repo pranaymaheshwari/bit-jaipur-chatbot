@@ -484,5 +484,3 @@ This project is for educational and informational purposes. All institutional da
 - **Streamlit** — for the web UI framework
 
 ---
-
-*Built with ❤️ for BIT Mesra Jaipur | Powered by Gemma 4 e2b + Llama 3.3-70b + Advanced RAG + Real-time Streaming*
