@@ -1,0 +1,13 @@
+streamlit
+qdrant-client
+requests
+python-dotenv
+pymupdf
+semantic-text-splitter
+tiktoken
+tqdm
+groq
+matplotlib
+seaborn
+pandas
+graphviz
