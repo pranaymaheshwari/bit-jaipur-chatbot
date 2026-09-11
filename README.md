@@ -437,12 +437,6 @@ python benchmark_questions.py
 The 64-question set covers 11 categories:
 - about (7), academics (4), admissions (11), behavioral (6), campus_life (7), faculty (16), faqs (4), fees (7), placements (7), policies (4), student_life (3)
 
-### Known Data Conflicts
-
-The pipeline includes a `KNOWN_DATA_CORRECTIONS` override for the CSE HOD conflict:
-- **Correct**: Dr. Shripal Vijayvargiya (per CSE department documents)
-- **Stale**: Dr. Madhavi Sinha (per Contact_Details_Incharges.pdf)
-
 ---
 
 ## 🛠️ Troubleshooting
